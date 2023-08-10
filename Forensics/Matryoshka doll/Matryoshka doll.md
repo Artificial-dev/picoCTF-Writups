@@ -2,7 +2,7 @@
 
 ## Overview
 - Points: 30
-- Category:  **[Forensics](Forensics/)**
+- Category:  **[Forensics](/Forensics)**
 - Tags: #picoCTF 2021 #Forensics
 
 ## Description
