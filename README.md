@@ -5,4 +5,4 @@ This public repository contains my writeups and solutions for challenges from pi
 This writeup repository is a work in progress containing solutionsa and summary of used tools for some picoCTF challenges. I plan to continue expanding it by solving additional challenges from the Pico primer and documenting step-by-step techniques used.
 
 * Forensics
-  * **[Matryoshka doll](Forensics/Matryoshka520doll/Matryoshka%20doll)**
+  * **[Matryoshka doll](Forensics/Matryoshka520doll/Matryoshka%20doll.md)**
