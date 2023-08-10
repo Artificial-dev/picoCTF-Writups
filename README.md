@@ -4,4 +4,4 @@ This public repository contains my writeups and solutions for challenges from pi
 
 This writeup repository is a work in progress containing solutions for some picoCTF challenges. I plan to continue expanding it by solving additional challenges from the Pico primer and documenting step-by-step techniques used.
 
-*Forensics
+* Forensics
