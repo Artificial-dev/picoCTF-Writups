@@ -1,11 +1,9 @@
-Here is a suggested Markdown layout for a picoCTF solution writeup on GitHub:
-
 # Challenge Name
 
 ## Overview
-- Points: 
-- Category:
-- Tags: 
+- Points: 30
+- Category: * **[Forensics](Forensics/)**
+- Tags: #picoCTF 2021 #Forensics
 
 ## Description
 
