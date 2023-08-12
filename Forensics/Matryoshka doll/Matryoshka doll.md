@@ -15,7 +15,11 @@ Detailed walkthrough of the steps taken to solve the challenge. Can include:
 
 
 - Skills/tools/techniques - Stenography
-- 
+Approch I Got to know about stenography and hexeditor tools by this video on youtube.Searching through writups on google , got an tool stegoVeritas which give me a new image file named 2_c.jpg then got 3, 4 and at last 4_c.jpg gaved me flag.txt
+I used following commands
+stegoveritas -carve dolls.jpg     -carve     Attempt to carve/extract things from this file
+
+ 
 
 
 ## Reffernce
