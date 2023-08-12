@@ -7,23 +7,17 @@
 
 ## Description
 
-Brief background and description of the picoCTF challenge.
+-Matryoshka dolls are a set of wooden dolls of decreasing size placed one inside another. What’s the final one? Image: this
 
 ## Solution
 
 Detailed walkthrough of the steps taken to solve the challenge. Can include:
 
-- Reconnaissance 
-- Skills/tools/techniques used
-- Explanation of exploitation process
-- Code snippets 
-- Screenshots
-- Retrieving the flag
 
-## Takeaways
+- Skills/tools/techniques - Stenography
+- 
 
-Key lessons learned and security concepts demonstrated through solving this challenge.
 
-This provides a template with an overview section for key challenge details, a description to introduce the problem, and a solution section to thoroughly explain the techniques used to solve the challenge. The takeaways section allows reflecting on broader learnings. 
-
-The Markdown formatting makes it easy to write, organize, and share the content on GitHub.
+## Reffernce
+https://medium.com/@arthDetroja/picoctf-write-up-matryoshka-doll-dd21c2b53a3d
+https://github.com/bannsec/stegoVeritas.git
