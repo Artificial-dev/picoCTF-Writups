@@ -36,5 +36,5 @@ https://github.com/bannsec/stegoVeritas.git
   
 
   [Vim](https://www.vim.org/)<br>
-  [010 Editor](https://www.sweetscape.com/010editor/)
+  [010 Editor](https://www.sweetscape.com/010editor/)<br>
   [HxD (only for windows)](https://mh-nexus.de/en/hxd/)
