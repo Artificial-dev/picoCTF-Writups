@@ -14,7 +14,7 @@
 Detailed walkthrough of the steps taken to solve the challenge. Can include:
 
 
-- Skills/tools/techniques - Stenography
+- Skills/tools/techniques - Stenography/File carving
 - Approach<br>
  Starting with research on steganography and hex editors, I followed a YouTube tutorial and found a useful write-up. I came across "stegoVeritas," a tool on GitHub for steganography analysis. Using it with the command
 ```
