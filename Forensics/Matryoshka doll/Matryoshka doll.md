@@ -15,9 +15,9 @@ Detailed walkthrough of the steps taken to solve the challenge. Can include:
 
 
 - Skills/tools/techniques - Stenography
-Approch I Got to know about stenography and hexeditor tools by this video on youtube.Searching through writups on google , got an tool stegoVeritas which give me a new image file named 2_c.jpg then got 3, 4 and at last 4_c.jpg gaved me flag.txt
-I used following commands
-stegoveritas -carve dolls.jpg     -carve     Attempt to carve/extract things from this file
+- Approach
+Starting with research on steganography and hex editors, I followed a YouTube tutorial and found a useful write-up. I came across "stegoVeritas," a tool on GitHub for steganography analysis. Using it with the command `stegoveritas -carve dolls.jpg -carve Attempt to carve/extract things from this file`, I uncovered a series of images. Ultimately, I reached "4_c.jpg," revealing a hidden "flag.txt" file.
+
 
  
 
