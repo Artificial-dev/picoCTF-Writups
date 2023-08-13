@@ -29,3 +29,9 @@ kali@root# stegoveritas -carve dolls.jpg                 -carve Attempt to carve
 ## Reffernce
 https://medium.com/@arthDetroja/picoctf-write-up-matryoshka-doll-dd21c2b53a3d
 https://github.com/bannsec/stegoVeritas.git
+- Learn more About stenograhy
+  https://ctfs.github.io/resources/topics/steganography/README.html
+- Hex-editors
+   ![Vim](https://www.vim.org/)
+   ![010 Editor](https://www.sweetscape.com/010editor/)
+   ![HxD (only for windows)](https://mh-nexus.de/en/hxd/)
